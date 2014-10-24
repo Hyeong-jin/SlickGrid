@@ -83,6 +83,13 @@ li {
   left: 650px;
 }
 
+
+.slick-header-column-groups {
+  background: url('/images/header-columns-bg.gif') repeat-x center bottom;
+  border-bottom: 0px solid silver;
+}
+
+
 /* Individual cell styles */
 .slick-cell.task-name {
   font-weight: bold;
@@ -226,5 +233,3 @@ input.editor-checkbox {
   padding: 0;
   border: 0;
 }
-
-
